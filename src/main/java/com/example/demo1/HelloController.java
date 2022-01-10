@@ -10,6 +10,7 @@ public class HelloController {
     @FXML
     protected void onHelloButtonClick() {
         System.out.println("Hello, World!");
+        System.out.println("Hello, buton clicked!");
 
 
         //welcomeText.setText("Welcome to JavaFX Application!");
